@@ -1,0 +1,79 @@
+978-0-201-63364-8 Data Structures and Algorithms 1
+978-0-262-13472-9 Operating Systems Concepts 0
+978-0-13-110163-0 The C Programming Language 1
+978-1-4842-0397-5 Python for Data Science 0
+978-0-07-043705-2 Digital Logic Design 1
+978-1-119-55561-9 Web Development with HTML5 0
+978-0-13-148489-9 Computer Networking 0
+978-1-491-95459-2 The Pragmatic Programmer 1
+978-0-13-517248-0 Clean Code 0
+978-0-553-37431-7 Data Science from Scratch 1
+978-0-262-13251-0 Introduction to Algorithms 0
+978-0-321-35604-3 Modern Operating Systems 0
+978-0-07-022257-3 Introduction to the Theory of Computation 1
+978-0-679-43173-1 Programming Pearls 0
+978-1-491-91857-4 Learning Python 1
+978-0-07-042805-5 Computer Architecture: A Quantitative Approach 0
+978-0-201-53111-0 UNIX System Programming 1
+978-1-449-37108-7 SQL for Data Analytics 0
+978-0-12-409785-4 Artificial Intelligence 0
+978-0-14-303896-6 The Art of Computer Programming 1
+978-0-596-52068-7 Python Cookbook 0
+978-0-321-19321-7 C++ Primer 1
+978-0-13-234676-8 Machine Learning 0
+978-0-321-92860-4 Programming in C 1
+978-1-491-90257-6 JavaScript: The Good Parts 0
+978-0-672-32861-9 Computer Science Illuminated 0
+978-1-118-92071-4 Ruby on Rails Tutorial 1
+978-0-07-337614-7 Java: A Beginner's Guide 0
+978-0-201-44758-7 Algorithms in C 0
+978-0-13-295433-5 C Programming Absolute Beginner's Guide 1
+978-0-262-03384-8 Java Programming 0
+978-0-07-365171-6 Introduction to Computing Systems 0
+978-0-13-504480-3 Eloquent JavaScript 1
+978-0-672-33056-0 Introduction to Software Engineering 0
+978-1-491-88347-6 Programming in Scala 0
+978-0-262-03383-1 Understanding Machine Learning 1
+978-0-321-83061-3 The C++ Programming Language 0
+978-1-60309-357-7 R Cookbook 1
+978-1-491-86461-1 Learning JavaScript Design Patterns 0
+978-0-672-33893-3 Python for Everybody 0
+978-1-499-35226-6 Practical Data Science 1
+978-0-262-03293-3 Computer Networks 0
+978-0-13-276246-5 Data Science for Business 1
+978-1-491-94217-5 Fluent Python 0
+978-0-321-82235-0 Programming in C 1
+978-0-321-63384-2 The Go Programming Language 0
+978-1-59327-203-1 Mastering Python 0
+978-1-59327-272-7 Data Structures in Java 1
+978-1-118-87972-6 The Complete Reference: Java 0
+978-0-13-714184-7 Data Science Handbook 1
+978-1-491-93616-7 Understanding JavaScript 0
+978-0-13-416657-0 Algorithm Design Manual 0
+978-0-596-52069-4 JavaScript: The Definitive Guide 1
+978-1-491-90057-2 Kotlin Programming 0
+978-1-4302-2770-3 React Native 0
+978-1-491-96294-0 Think Python 1
+978-0-13-467095-2 The Art of Computer Programming 0
+978-0-321-80527-2 Java Programming 0
+978-0-12-805457-1 Practical Machine Learning 1
+978-0-13-212251-8 Java: The Complete Reference 0
+978-1-118-96250-4 Introduction to JavaScript 0
+978-0-13-438358-3 Python for Data Science Handbook 1
+978-0-13-449836-6 Web Development with JavaScript 0
+978-1-118-70598-1 Learning SQL 1
+978-1-491-91314-1 Principles of Data Science 0
+978-0-13-525210-6 Grokking Algorithms 0
+978-1-491-96435-7 Java for Data Science 0
+978-1-491-86037-8 Python Data Science Handbook 1
+978-0-321-97362-9 Programming C++ 0
+978-1-491-99256-0 Java Programming for Beginners 0
+978-0-13-409342-6 Advanced C Programming 1
+978-1-491-94168-0 JavaScript for Beginners 0
+978-1-441-69632-9 The Data Science Handbook 1
+978-0-13-484302-0 Head First Java 0
+978-1-491-98437-1 Python in Practice 1
+978-1-491-91104-8 Advanced Java Programming 0
+978-1-491-98797-0 Data Science for Dummies 0
+978-0-13-510405-4 Mastering Python for Data Science 0
+Core Java Programming 1
